@@ -1,9 +1,10 @@
 # In order to start the Frontend perfom in terminal:
-1- cd Frontend
-2- npm install
 
-# To run the frontend 
-npm start
+T1) MVN spring-boot:run
+T2) cd Frontend>npm install>npm run
 
 
-The installation must be done individually in every collaborator otherwise its not going to work
+# In order to push
+T3) create repo>masukkan command
+
+
